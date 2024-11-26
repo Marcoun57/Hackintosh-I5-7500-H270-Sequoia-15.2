@@ -18,6 +18,12 @@ Successfully installed macOS Sequoia 15.2 beta on PC with Opencore 1.0.2.
 | Audio  | Realtek ALC892 - layout 1  |
 | Wifi / BT  | Fenvi T919  |
 
+In the futur I will upgrade my CPU to an I7-7700k and RAM to 64GB.
+
+
+## IMPORTANT!!
+
+Please generate a new SMBIOS, I use MacPro 7.1, as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
 
 ## Current status:
 
@@ -55,6 +61,4 @@ Successfully installed macOS Sequoia 15.2 beta on PC with Opencore 1.0.2.
 - SATA Mode: AHCI
 
 
-## IMPORTANT
 
-Please generate a new SMBIOS, I use MacPro 7.1, as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
