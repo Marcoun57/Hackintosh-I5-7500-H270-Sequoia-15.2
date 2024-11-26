@@ -15,7 +15,7 @@ Successfully installed macOS Sequoia 15.2 beta on PC with Opencore 1.0.2.
 | Graphics  | Intel® HD Graphics 630 / RX 570 4GB  |
 | RAM  | 16GB DDR4 2400MHz 8GB x 2  |
 | Storage  | Crucial 500GB SSD  |
-| Audio  | Realtek ALC892 - layout 1  |
+| Audio  | Realtek ALC1220 - layout 1  |
 | Wifi / BT  | Fenvi T919  |
 
 In the futur I will upgrade my CPU to an I7-7700k and RAM to 64GB.
