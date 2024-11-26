@@ -1,8 +1,7 @@
 # Hackintosh I5-7500 H270 GAMING M3 / Sequoia 15.2
 
-<img src="https://github.com/Marcoun57/Hackintosh-I5-7500-H270-Sequoia-15.2/blob/main/i5-7500.png" width=30% height=30%>
+<img src="https://github.com/Marcoun57/Hackintosh-I5-7500-H270-Sequoia-15.2/blob/main/i5-7500.png" width=30% height=30%> <img src="https://github.com/Marcoun57/Hackintosh-I5-7500-H270-Sequoia-15.2/blob/main/h270-gaming-m3.png" width=50% height=50%>
 
-<img src="https://github.com/Marcoun57/Hackintosh-I5-7500-H270-Sequoia-15.2/blob/main/h270-gaming-m3.png" width=50% height=50%>
 
 Successfully installed macOS Sequoia 15.2 beta on PC with Opencore 1.0.2.
 
