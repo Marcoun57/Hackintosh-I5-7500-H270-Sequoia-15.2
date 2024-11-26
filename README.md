@@ -28,7 +28,7 @@ Please generate a new SMBIOS, I use MacPro 7.1, as I deleted my serials... with 
 
 ### Working:
 
-- Audio
+- Audio Realtek ALC1220
 - Graphics with RX 570 (native)
 - WiFi / Bluetooth Fenvi T919 (native) Airdrop, Handoff etc
 - USB
