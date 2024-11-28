@@ -17,7 +17,7 @@ Successfully installed macOS Sequoia 15.2 Beta 4 on PC with Opencore 1.0.2.
 | Audio  | Realtek ALC1220 - layout 1  |
 | Wifi / BT  | Fenvi T919  |
 
-In the futur I will upgrade my CPU to an i7-7700k and RAM to 64GB.
+In the futur I will upgrade my CPU to an i7-7700k and 64GB RAM.
 
 
 ## IMPORTANT!!
