@@ -15,7 +15,7 @@ Successfully installed macOS Sequoia 15.2 Beta 4 on PC with Opencore 1.0.2.
 | RAM  | 16GB DDR4 2400MHz 8GB x 2  |
 | Storage  | Crucial 500GB SSD  |
 | Audio  | Realtek ALC1220 - layout 1  |
-| Wifi / BT  | Fenvi T919  |
+| Wifi / BT  | <a href="https://github.com/Marcoun57/Fenvi-T919-Sonoma-Sequoia">Fenvi T919</a>  |
 
 In the futur I will upgrade my CPU to an i7-7700k and 64GB RAM.
 
@@ -30,7 +30,7 @@ Please generate a new <a href="https://github.com/corpnewt/GenSMBIOS">SMBIOS</a>
 
 - Audio Realtek ALC1220
 - Graphics with RX 570 (native)
-- WiFi / Bluetooth Fenvi T919 (native) Airdrop, Handoff etc
+- WiFi / Bluetooth <a href="https://github.com/Marcoun57/Fenvi-T919-Sonoma-Sequoia">Fenvi T919</a> (native) Airdrop, Handoff etc
 - USB
 
 ## Bios setup:
