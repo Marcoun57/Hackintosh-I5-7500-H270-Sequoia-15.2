@@ -22,7 +22,7 @@ In the futur I will upgrade my CPU to an i7-7700k and 64GB RAM.
 
 ## IMPORTANT!!
 
-Please generate a new SMBIOS, I use MacPro 7.1, as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
+Please generate a new <a href="https://github.com/corpnewt/GenSMBIOS">SMBIOS</a> , I use MacPro 7.1, as I deleted my serials...
 
 ## Current status:
 
@@ -56,7 +56,7 @@ Please generate a new SMBIOS, I use MacPro 7.1, as I deleted my serials... with 
 - Execute Disable Bit
 - EHCI/XHCI Hand-off
 - OS Type: Windows 8.1/10 UEFI Mode
-- DVMT Pre-Allocated(iGPU Memory): 64MB
+- DVMT Pre-Allocated (iGPU Memory): 64MB
 - SATA Mode: AHCI
 
 
